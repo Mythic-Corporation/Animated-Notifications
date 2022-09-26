@@ -16,4 +16,12 @@ https://github.com/oscar-broman/SKY
 
 Note: In order for the animation to look smooth, it is recommended that players have a constant 60FPS+ while the animation is playing and have a good connection to the server.
 
+### Function
+
+```
+ShowNotification(playerid, const text[], time = 3)
+```
+
 ### Video
+
+https://user-images.githubusercontent.com/108776736/192386228-9e285009-1b73-4d77-aeb1-5728de03a9e4.mp4
